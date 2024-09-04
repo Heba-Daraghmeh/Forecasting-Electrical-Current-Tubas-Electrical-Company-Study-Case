@@ -30,9 +30,9 @@ This project is licensed under the MIT License.
 
 ## Acknowledgments
 Special thanks to Tubas Electrical Company for providing the data, and to my teammate Shorouq Abu-Khamees for her collaboration on this project.
-
+<a id='contactinformation'></a>
 ## Contact Information
-For any questions or feedback, feel free to contact me on LinkedIn or via GitHub.
+For any questions or feedback, feel free to contact me on LinkedIn [http://www.linkedin.com/in/heba-daraghmeh-3862b9318] or via GitHub.
 <a id='futurework'></a>
 ## Future Work
 The next step for this project is to write a scientific paper based on the work and submit it for publication as part of a master’s research.
